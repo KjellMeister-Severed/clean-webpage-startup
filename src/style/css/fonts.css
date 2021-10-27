@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Glaciel Indifference Bold';
+    src: url('../fonts/GlacialIndifference-Bold.eot') format('eot'), url('../fonts/GlacialIndifference-Bold.woff') format('woff'), url('../fonts/GlacialIndifference-Bold.woff2') format('woff2');
+}
+h1 {
+    font-family: 'Glaciel Indifference Bold', 'sans-serif';
+    font-size: 2rem;
+}
+h2 {
+    font-family: 'Glaciel Indifference Bold', 'sans-serif';
+    font-size: 1.8rem;
+}
+h3 {
+    font-family: 'Glaciel Indifference Bold', 'sans-serif';
+    font-size: 1.6rem;
+}
+h4 {
+    font-family: 'Glaciel Indifference Bold', 'sans-serif';
+    font-size: 1.4rem;
+}
+h5 {
+    font-family: 'Glaciel Indifference Bold', 'sans-serif';
+    font-size: 1.2rem;
+}
+h6 {
+    font-family: 'Glaciel Indifference Bold', 'sans-serif';
+    font-size: 1rem;
+}
+
+section{
+    height: 100vh;
+    width: 100vw;
+}
+
+.flex-mid{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
